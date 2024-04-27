@@ -29,6 +29,7 @@ function createGalleryImg(arr) {
   </li>`
     )
     .join("");
+    
 }
 
 let instance;
